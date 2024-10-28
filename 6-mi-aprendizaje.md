@@ -14,4 +14,4 @@ Sobre los tipos de volúmenes, a conectar carpetas de mi computadora a contenedo
 los volumenes nombrados que son fáciles de manejar porque no necesito especificar la ruta en mi computadora.
 Volúmenes Anónimos: Son creados automáticamente por Docker 
 
-Me sigue sirviendo como practica para acordarme de comando usados en practicas anteriores, tuve algunos inconvenientes al intentar acceder a archivos y configurar contenedores, lo que me llevó a investigar un poco más y gracias a estas practicas cada vez voy teniendo una mejor comprension de Docker
+Esta práctica me ha sido útil para recordar los comandos que utilicé en ejercicios anteriores. Aunque tuve algunos inconvenientes al intentar acceder a archivos y configurar contenedores, eso me impulsó a investigar más. Gracias a estas experiencias, estoy logrando una mejor comprensión de Docker y su funcionamiento.
