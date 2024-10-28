@@ -15,3 +15,5 @@ los volumenes nombrados que son fáciles de manejar porque no necesito especific
 Volúmenes Anónimos: Son creados automáticamente por Docker 
 
 Esta práctica me ha sido útil para recordar los comandos que utilicé en ejercicios anteriores. Aunque tuve algunos inconvenientes al intentar acceder a archivos y configurar contenedores, eso me impulsó a investigar más. Gracias a estas experiencias, estoy logrando una mejor comprensión de Docker y su funcionamiento.
+
+El Configurar un servidor Nginx y una base de datos MySQL, me enseñó cómo funcionan estas aplicaciones en contenedores y cómo los volúmenes ayudan a mantener sus datos.
